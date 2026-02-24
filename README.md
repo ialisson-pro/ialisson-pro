@@ -3,12 +3,11 @@ Electrical Engineering Student | Data & Technology
 
 ### Hi there 👋  
 
-I am an Electrical Engineering student at POLI-USP (9th semester) with experience in electric mobility projects, software engineering, data analysis and embedded systems.  
-I enjoy building practical solutions that connect engineering, data and technology to generate real-world impact.
+I am an Electrical Engineering student at POLI-USP (9th semester) with experience in electric mobility projects, software engineering, data analysis and embedded systems. 
 
 🚀 &nbsp; Currently developing projects in **Electric Mobility & Power Electronics**  
 📊 &nbsp; Experience with **Data Analysis (SQL, Power BI, Excel, VBA)**  
-💻 &nbsp; Programming: Python, C, C++, MATLAB, SQL  
+💻 &nbsp; Programming: Python, C, C++, MATLAB, SQL, PHP, HTML, CSS
 🔌 &nbsp; Focused on **Power Electronics, Embedded Systems (ESP32), System Integration**  
 📈 &nbsp; Interested in strategic projects combining **technology, operations and data**  
 🛠️ &nbsp; Hands-on profile with entrepreneurial mindset  

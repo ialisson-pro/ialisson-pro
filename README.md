@@ -10,7 +10,7 @@ I am an Electrical Engineering student at POLI-USP (9th semester) focused on sof
 🚀 &nbsp; Currently developing projects in **Software Engineering, Data Systems & Automation**  
 📊 &nbsp; Experience with **Data Analysis (SQL, Python, Power BI, Excel, VBA)**  
 💻 &nbsp; Programming: Python, C, C++, SQL, PHP, HTML, CSS  
-⚙️ &nbsp; Interested in **Backend Development, Data Engineering, Scalable Systems & Fintech Solutions**  
+⚙️ &nbsp; Interested in **FullStack Development, Data Engineering, Scalable Systems & Fintech Solutions**  
 
 ---
 

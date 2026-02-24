@@ -7,7 +7,7 @@ I am an Electrical Engineering student at POLI-USP (9th semester) with experienc
 
 🚀 &nbsp; Currently developing projects in **Electric Mobility & Power Electronics**  
 📊 &nbsp; Experience with **Data Analysis (SQL, Power BI, Excel, VBA)**  
-💻 &nbsp; Programming: Python, C, C++, MATLAB, SQL, PHP, HTML, CSS
+💻 &nbsp; Programming: Python, C, C++, MATLAB, SQL, PHP, HTML, CSS  
 🔌 &nbsp; Focused on **Power Electronics, Embedded Systems (ESP32), System Integration**  
 📈 &nbsp; Interested in strategic projects combining **technology, operations and data**  
 🛠️ &nbsp; Hands-on profile with entrepreneurial mindset  

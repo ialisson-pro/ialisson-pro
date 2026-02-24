@@ -32,7 +32,7 @@ I am an Electrical Engineering student at POLI-USP (9th semester) with experienc
 
 ## 🧠 Technical Skills
 
-- **Programming:** Python, C, C++, MATLAB, SQL  
+- **Programming:** Python, C, C++, MATLAB, SQL, PHP, HTML, CSS  
 - **Data & BI:** Power BI, Excel (VBA), Applied Statistics  
 - **Embedded Systems:** ESP32, Microcontrollers  
 - **Engineering Tools:** KiCad, AutoCAD, Siemens NX, SolidWorks  

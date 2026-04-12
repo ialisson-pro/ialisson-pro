@@ -1,5 +1,5 @@
 # Ialisson Soares  
-Electrical Engineering Student | Software & Data Engineering
+Electrical Engineering Student | Software & Data
 
 🎓 **Electrical Engineering** – University of São Paulo - USP 
 
